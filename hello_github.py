@@ -1,6 +1,6 @@
 print("Hello Git!")
 
-a = 5
-b = 7
+a = 3
+b = 9
 
 print(a + b)
